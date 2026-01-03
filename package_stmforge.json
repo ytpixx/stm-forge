@@ -16,7 +16,7 @@
           "category": "Contributed",
           "url": "https://github.com/ytpixx/stm-forge/releases/download/v0.1.0/stmforge-core-0.1.0.zip",
           "archiveFileName": "stmforge-core-0.1.0.zip",
-          "checksum": "SHA-256:0000000000000000000000000000000000000000000000000000000000000000",
+          "checksum": "SHA-256:62bfb68dff08ed4dbbb70c162fdeb496dc433e3ee40a62cf598ab5be84d9997d",
           "size": "123",
           "boards": [
             { "name": "STM32F103 (STM-Forge)" }

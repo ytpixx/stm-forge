@@ -1,0 +1,1 @@
+stmforge_f103.name=STM32F103 (STM-Forge)

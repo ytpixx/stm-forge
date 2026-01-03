@@ -1,0 +1,30 @@
+{
+  "packages": [
+    {
+      "name": "stmforge",
+      "maintainer": "STM-Forge",
+      "websiteURL": "https://github.com/ytpixx/stm-forge",
+      "email": "none",
+      "help": {
+        "online": "https://github.com/ytpixx/stm-forge"
+      },
+      "platforms": [
+        {
+          "name": "STM-Forge Core",
+          "architecture": "stmforge",
+          "version": "0.1.0",
+          "category": "Contributed",
+          "url": "https://github.com/ytpixx/stm-forge/releases/download/v0.1.0/stmforge-core-0.1.0.zip",
+          "archiveFileName": "stmforge-core-0.1.0.zip",
+          "checksum": "SHA-256:0000000000000000000000000000000000000000000000000000000000000000",
+          "size": "123",
+          "boards": [
+            { "name": "STM32F103 (STM-Forge)" }
+          ],
+          "toolsDependencies": []
+        }
+      ],
+      "tools": []
+    }
+  ]
+}
